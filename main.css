@@ -1,11 +1,27 @@
 .pageHeader {
-    border: 1px dotted goldenrod;
+    width: 300px;
+    border: 2px solid;
+    background-color: coral;
     padding: 1em;
-    margin: 0.5em;
+    margin: 30px;
+    text-align: center;
+    
 }
 
+.fish-image {
+    width: 150px;
+    height: 150px;
+}
+
+.collection {
+    display: flex;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+}
 .fish-properties {
-    border: 1px dotted blue;
     padding: 1em;
     margin: 0.5em;
 }
@@ -17,19 +33,26 @@
 }
 
 .location-tips {
-    border: 1px dotted yellowgreen;
+    border: 1px solid yellowgreen;
     padding: 1em;
     margin: 0.5em;
 }
 
 .travel-tips {
-    border: 1px dotted orange;
+    border: 1px solid orange;
     padding: 1em;
     margin: 0.5em;
+    width: 300;
+    
+}
+
+.entire-page {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .locations {
-    border: 1px dotted crimson;
+    border: 2px solid;
     padding: 1em;
     margin: 0.5em;
 }
