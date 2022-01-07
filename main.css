@@ -1,0 +1,41 @@
+.pageHeader {
+    border: 1px dotted goldenrod;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.fish-properties {
+    border: 1px dotted blue;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.fish-collection {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.location-tips {
+    border: 1px dotted yellowgreen;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.travel-tips {
+    border: 1px dotted orange;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.locations {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.martins-tips {
+    border: 1px dotted teal;
+    padding: 1em;
+    margin: 0.5em;
+}
